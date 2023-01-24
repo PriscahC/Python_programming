@@ -1,0 +1,5 @@
+Create a file
+catch FileNotFoundError
+Else print contents
+Finally print a string
+Open non existent file mydata.txt
